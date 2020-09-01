@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+      "firstname": "Sazae",
+      "lastname": "Fuguta"
+    },
+    {
+        "id":"2",
+       "firstname": "Namihei",
+       "lastname": "Isono"
+    },
+    {
+        "id": "3",
+        "firstname": "Wakame",
+        "lastname": "Isono"
+    }
+
+]
